@@ -1,14 +1,14 @@
-*Learn about Linux*
+**Learn about Linux**
 
-*Introduction:*
+**Introduction:**
 
 Linux is actually everywhere. It’s in your phones, in your cars, in your refrigerators, your Roku devices.Lets dive into it in a bit in detail below.
 
-*Section 1: Linux History:*
+**Section 1: Linux History:**
 
 Linux, originally released as a personal project by Linus Torvalds in the early 1990s, has grown into a fundamental component of modern computing. It is a power of open-source collaboration, fostered by a dedicated community of developers who have contributed significantly to its development. The Linux kernel, the operating system's core, has been carefully crafted and refined over the years, making it a reliable and efficient foundation for servers, desktops, and even small embedded devices. Its open-source nature has encouraged innovation and community, solidifying Linux's position as a key player in the ever-evolving technological landscape.
 
-*Section 2: Linux Distributions:*
+**Section 2: Linux Distributions:**
 
 Linux distributions, commonly referred to as "distros," are packaged versions of the Linux operating system that bundle the Linux kernel, system utilities, and a selection of software applications. These distributions simplify the installation and use of Linux by providing a pre-configured environment.
 
@@ -33,22 +33,22 @@ Software selection: The pre-installed software packages and repositories can var
 Release cycle: Some distributions have frequent releases, while others are more conservative in their updates.
 Target audience: Distributions may be tailored to specific user groups, such as developers, gamers, or system administrators.
 
-*Section 3: Basic Linux Commands:*
+**Section 3: Basic Linux Commands:**
 
-cat: Displays the contents of a file.
-echo: Prints a message to the terminal.
-touch: Creates a new empty file.
-chmod: Changes the permissions of a file or directory.
-chown: Changes the owner of a file or directory.
-grep: Searches for text patterns within files.
-find: Searches for files in a directory hierarchy.
-ps: Lists running processes.
-kill: Terminates a process.
-df: Displays disk space usage.
-du: Displays disk space usage of files and directories.
-wget: Downloads files from the internet.
-tar: Archives and extracts files.
+- cat: Displays the contents of a file.
+- echo: Prints a message to the terminal.
+- touch: Creates a new empty file.
+- chmod: Changes the permissions of a file or directory.
+- chown: Changes the owner of a file or directory.
+- grep: Searches for text patterns within files.
+- find: Searches for files in a directory hierarchy.
+- ps: Lists running processes.
+- kill: Terminates a process.
+- df: Displays disk space usage.
+- du: Displays disk space usage of files and directories.
+- wget: Downloads files from the internet.
+- tar: Archives and extracts files.
 
-*Conclusion:*
+**Conclusion:**
 
 Learned about Linux's history, key contributors, evolution, distributions, and commands.
